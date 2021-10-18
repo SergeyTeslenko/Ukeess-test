@@ -1,0 +1,43 @@
+.App {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1200px;
+}
+.row {
+  margin: 50px 75px;
+}
+.form {
+  padding: 58px 64px 97px;
+  margin: 0 auto;
+}
+.form input {
+  box-sizing: border-box;
+  padding: 3px 2px;
+}
+.label1 {
+  margin-right: 58px;
+}
+.label2 {
+  margin-right: 53px;
+}
+
+.label3 {
+  margin-right: 14px;
+}
+.label-items {
+  width: 174px;
+  padding: 3px 2px;
+}
+
+.button {
+  margin-right: 5px;
+  margin-top: 15px;
+}
+
+.employee {
+  display: block;
+  padding: 10px 0;
+}
